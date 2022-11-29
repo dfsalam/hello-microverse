@@ -16,8 +16,6 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
 > This project was created to understand git concepts and to practice Github habilities.
@@ -30,7 +28,7 @@
 
 > The tech stack used are html and css.
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Author1**
 
@@ -38,11 +36,9 @@
 - Twitter: [@mech_programmer](https://twitter.com/mech_programmer)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/diego-salamanca-5446141b8)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/chibunduonyeje1)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chibunduonyeje1/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
