@@ -16,6 +16,8 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
+
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
 > This project was created to understand git concepts and to practice Github habilities.
@@ -28,15 +30,12 @@
 
 > The tech stack used are html and css.
 
-## 👥 Author <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
-👤 **Author1**
 
 - GitHub: [@dfsalam](https://github.com/dfsalam)
 - Twitter: [@mech_programmer](https://twitter.com/mech_programmer)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/diego-salamanca-5446141b8)
-
-
 
 
 
