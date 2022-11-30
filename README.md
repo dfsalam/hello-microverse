@@ -30,19 +30,14 @@
 
 > The tech stack used are html and css.
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
-👤 **Author1**
 
 - GitHub: [@dfsalam](https://github.com/dfsalam)
 - Twitter: [@mech_programmer](https://twitter.com/mech_programmer)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/diego-salamanca-5446141b8)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/chibunduonyeje1)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chibunduonyeje1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
